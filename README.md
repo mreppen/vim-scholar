@@ -1,7 +1,7 @@
 # vim-scholar
 Vim plugin for importing BibTeX data directly from Google Scholar
 
-Uses [https://github.com/ckreibich/scholar.py](https://github.com/ckreibich/scholar.py) for retrieving the data.
+Uses [https://github.com/rreece/scholar.py](https://github.com/rreece/scholar.py) for retrieving the data.
 
 The plugin is just a very crude vim layer on top of that.
 
